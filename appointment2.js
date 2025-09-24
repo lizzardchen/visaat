@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         autoRefreshUsVisa
+// @name         autovisa
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       jarvixwang
+// @author       lizzardchen
 // @match        *://portal.ustraveldocs.com/applicanthome
 // @match        *://portal.ustraveldocs.com/appointmentcancellation*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ustraveldocs.com
